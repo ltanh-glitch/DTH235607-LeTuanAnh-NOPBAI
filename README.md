@@ -8,6 +8,9 @@
 - Tôi là một sinh viên Ngành Công Nghệ Thông Tin của Trường Đại học An Giang, yêu thích xây dựng các ứng dụng web hiệu quả, dễ mở rộng và thân thiện với người dùng.  
 Ngoài ra, tôi cũng quan tâm đến **Java Backend, Web Development**.
 
+## 💻 Mổ tả về ngành
+🌟 Mình đang học và làm việc trong ngành Công nghệ Thông tin (CNTT) – nơi mọi thứ đều bắt đầu từ những dòng code. Mình thích tìm tòi, thử nghiệm các ứng dụng web, phần mềm, và công nghệ mới để tạo ra những sản phẩm hữu ích. Với mình, CNTT không chỉ là nghề, mà còn là cách để kết nối mọi người, giải quyết vấn đề, và biến những ý tưởng tưởng chừng nhỏ bé thành hiện thực. 💡💻
+
 ## 🚀 Kỹ năng chính
 - **Ngôn ngữ lập trình**: Java, C#, Python, C, C++
 - **Framework**: Spring Boot, .NET
