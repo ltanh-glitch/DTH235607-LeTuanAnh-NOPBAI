@@ -1,4 +1,4 @@
-<p align="center" style="background-color:#00B4DB; color:white; font-size:100px; font-weight:bold; padding:12px; border-radius:8px;">
+<p align="center" style="background-color:#00B4DB; color:white; font-size:28px; font-weight:bold; padding:12px; border-radius:8px;">
   🐍 HỆ THỐNG CÁC BÀI TẬP PYTHON
 </p>
 
