@@ -7,14 +7,14 @@
 ---
 
 📂 *Đây là kho lưu trữ này được tổng hợp và sắp xếp lại các bài tập Python trong chương trình học của tôi.*  
-🎯 *Mục đích chính:*
+🎯 *Mục đích chính:
 - Tổng hợp và hệ thống lại toàn bộ **bài tập Python** theo chương trình học  
 - Giúp **củng cố kiến thức lý thuyết** thông qua thực hành  
 - Rèn luyện **tư duy logic, tư duy thuật toán** và kỹ năng phân tích vấn đề  
 - Hình thành **kỹ năng lập trình thực tế** qua các ví dụ và bài tập ứng dụng  
 - Chuẩn bị nền tảng kiến thức cho **bài kiểm tra, đồ án và dự án thực tế**  
 - Khuyến khích thói quen **làm việc với Git/GitHub** để quản lý phiên bản code  
-- Tạo môi trường chia sẻ, học hỏi và **trao đổi kinh nghiệm** với cộng đồng*  
+- Tạo môi trường chia sẻ, học hỏi và **trao đổi kinh nghiệm** với cộng đồng.*
 
 ---
 
