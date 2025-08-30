@@ -1,5 +1,5 @@
 <p align="center" style="background-color:#00B4DB; color:white; font-size:28px; font-weight:bold; padding:12px; border-radius:8px;">
-  🐍 HỆ THỐNG CÁC BÀI TẬP PYTHON
+  <h1 🐍 HỆ THỐNG CÁC BÀI TẬP PYTHON </h1>
 </p>
 
 ## 📘 Môn học: Chuyên đề Python  
