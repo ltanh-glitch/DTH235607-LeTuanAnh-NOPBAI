@@ -42,3 +42,7 @@
 - 🐙 [GitHub](https://github.com/DTH235607-LeTuanAnh)  
 - 💬 Zalo: 0334056255  
 - 📧 Email: anh_dth235607@student.agu.edu.vn
+
+---
+
+💓*THANK YOU VERY MUCH!*
