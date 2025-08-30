@@ -3,7 +3,7 @@
 </h1>
 
 ## 📘 Môn học: Chuyên đề Python  
-- **👨‍🎓 Họ và tên:** <h2 Lê Tuấn Anh </h2> 👋
+- **👨‍🎓 Họ và tên:** Lê Tuấn Anh 👋
 - **🆔 MSSV:** DTH235607  
 
 ---
