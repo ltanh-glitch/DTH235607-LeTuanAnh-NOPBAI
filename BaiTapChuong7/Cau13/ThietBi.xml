@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<thietbis>
+  <thietbi manhom="n1">
+    <ma>tb1</ma>
+    <ten>Thiết bị 1</ten>
+  </thietbi>
+  <thietbi manhom="n1">
+    <ma>tb2</ma>
+    <ten>Thiết bị 2</ten>
+  </thietbi>
+  <thietbi manhom="n2">
+    <ma>tb3</ma>
+    <ten>Thiết bị 3</ten>
+  </thietbi>
+  <thietbi manhom="n3">
+    <ma>tb4</ma>
+    <ten>Thiết bị 4</ten>
+  </thietbi>
+  <thietbi manhom="n3">
+    <ma>tb5</ma>
+    <ten>Thiết bị 5</ten>
+  </thietbi>
+</thietbis>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<nhoms>
+  <nhom>
+    <ma>n1</ma>
+    <ten>Nhóm 1</ten>
+  </nhom>
+  <nhom>
+    <ma>n2</ma>
+    <ten>Nhóm 2</ten>
+  </nhom>
+  <nhom>
+    <ma>n3</ma>
+    <ten>Nhóm 3</ten>
+  </nhom>
+</nhoms>
